@@ -2,9 +2,16 @@ namespace McpClient_cs.Models
 {
     public class AppSettings
     {
+        public McpServerSettings McpServer { get; set; } = new();
         public AiSettings AiSettings { get; set; } = new();
         public LoggingSettings Logging { get; set; } = new();
         public CorsSettings Cors { get; set; } = new();
+    }
+
+    public class McpServerSettings
+    {
+        public string Command { get; set; } = "dotnet";
+        public string DllPath { get; set; } = string.Empty;
     }
 
     public class AiSettings

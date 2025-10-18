@@ -27,4 +27,10 @@
     />
     <PackageReference Include="ModelContextProtocol" Version="0.4.0-preview.2" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="appsettings.json" />
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>

@@ -8,10 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53f19e56-466e-4631-8fba-184e642065e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.McpClient_cs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.McpClient_cs/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/McpClient_cs/McpClient_cs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/McpClient_cs/McpClient_cs.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/McpClient_cs/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/McpClient_cs/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ddcfb547bdd1481281b17d87a19e15a5d1a000/93/f3fa9adc/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ddcfb547bdd1481281b17d87a19e15a5d1a000/d7/82b330ed/StackFrameIterator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/McpClient_cs/AiSettings.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -39,7 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.McpClient_cs.executor": "Debug",
+    ".NET Project.McpClient_cs.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -89,7 +86,8 @@
       <workItem from="1760467737316" duration="926000" />
       <workItem from="1760468702278" duration="1940000" />
       <workItem from="1760555318296" duration="3263000" />
-      <workItem from="1760787317405" duration="2128000" />
+      <workItem from="1760787317405" duration="2284000" />
+      <workItem from="1760790058554" duration="2212000" />
     </task>
     <servers />
   </component>
